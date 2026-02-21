@@ -21,7 +21,7 @@ class Solution {
                 }
                 col[c][pos]=1;
 
-                int boxPos=(r/3) * 3 +(c/3);
+                int boxPos=(r/3) *3 +(c/3);
                 if(box[boxPos][pos]==1){
                     return false;
                 }
