@@ -16,6 +16,7 @@
 | [0344-reverse-string](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@
 | [0344-reverse-string](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
