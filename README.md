@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0088-merge-sorted-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -12,6 +13,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -29,4 +31,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
