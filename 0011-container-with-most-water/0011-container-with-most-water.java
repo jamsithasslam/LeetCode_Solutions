@@ -7,10 +7,10 @@ class Solution {
             int minHeight=Math.min(height[left],height[right]);
             int currArea=minHeight*(right-left);
 
-            if(height[left]<height[right]){
+            while(left<right && height[left]<=minHeight){
                 left++;
             }
-            else{
+            while(left<right && height[right]<=minHeight){
                 right--;
             }
             maximumArea=Math.max(currArea,maximumArea);
