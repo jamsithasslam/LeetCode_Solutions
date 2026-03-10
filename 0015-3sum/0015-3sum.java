@@ -6,7 +6,7 @@ class Solution {
         
         Arrays.sort(nums);
         for(int left=0;left<nums.length-2;left++){
-            if(left>0&&nums[left]==nums[left-1]) continue;
+            if(left>0&&nums[left]==nums[left-1])continue;
             int mid=left+1;
             int right=nums.length-1;
             while(mid<right){
@@ -21,8 +21,8 @@ class Solution {
                     
                     mid++;
                     right--;
-                    // while(mid<right&&nums[mid]==nums[mid-1]) mid++;
-                    // while(mid<right&&nums[right]==nums[right+1])right--;
+                    while(mid<right&&nums[mid]==nums[mid-1]) mid++;
+                    while(mid<right&&nums[right]==nums[right+1])right--;
                 }
             }
         }
