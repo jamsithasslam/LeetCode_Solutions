@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -17,6 +18,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -38,6 +40,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
