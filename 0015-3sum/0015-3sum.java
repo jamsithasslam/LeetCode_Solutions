@@ -21,8 +21,8 @@ class Solution {
                     
                     mid++;
                     right--;
-                    while(mid<right&&nums[mid]==nums[mid-1]) mid++;
-                    while(mid<right&&nums[right]==nums[right+1])right--;
+                    // while(mid<right&&nums[mid]==nums[mid-1]) mid++;
+                    // while(mid<right&&nums[right]==nums[right+1])right--;
                 }
             }
         }
