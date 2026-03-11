@@ -12,11 +12,13 @@
 | [0042-trapping-rain-water](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0217-contains-duplicate](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0881-boats-to-save-people](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0217-contains-duplicate](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@
 | [0015-3sum](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0881-boats-to-save-people](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
