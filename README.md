@@ -24,6 +24,7 @@
 | [0041-first-missing-positive](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0217-contains-duplicate](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0541-reverse-string-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -87,4 +89,5 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
