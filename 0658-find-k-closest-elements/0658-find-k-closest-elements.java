@@ -5,7 +5,7 @@ class Solution {
         int left=0;
         int right=arr.length-1;
         while(right-left+1>k){
-            if(Math.abs(arr[left]-x)<=Math.abs(arr[right]-x)){
+            if(x-arr[left]<=arr[right]-x){
                 right--;
             }
             else{
