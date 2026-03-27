@@ -3,19 +3,17 @@ class Solution {
         List<Integer> list=new ArrayList<>();
 
         int left=0;
-        int right=arr.length-k;
-        while(left<right){
-            int mid=(right+left)/2;
-
-            if(x-arr[mid] <= arr[mid+k]-x){
-                right=mid;
+        int right=arr.length-1;
+        while(right-left+1>k){
+            if(Math.abs(arr[left]-x)<=Math.abs(arr[right]-x)){
+                right--;
             }
             else{
-                left=mid+1;
+                left++;
             }
         }
 
-        for(int i=left;i<left+k;i++){
+        for(int i=left;i<=right;i++){
             list.add(arr[i]);
         }
 
