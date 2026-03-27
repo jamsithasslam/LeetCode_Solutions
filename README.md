@@ -17,6 +17,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@
 | [0344-reverse-string](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -69,12 +71,14 @@
 | [0018-4sum](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,8 +101,13 @@
 | [0219-contains-duplicate-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 <!---LeetCode Topics End-->
