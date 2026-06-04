@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -26,6 +27,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -53,6 +55,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -72,6 +75,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
