@@ -6,9 +6,9 @@ class Solution {
             char ch[]=str.toCharArray();
             Arrays.sort(ch);
             String s=new String(ch);
+
             map.putIfAbsent(s,new ArrayList<>());
             map.get(s).add(str);
-
         }
         return new ArrayList<>(map.values());
     }
