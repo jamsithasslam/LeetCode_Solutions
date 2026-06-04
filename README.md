@@ -19,6 +19,7 @@
 | [0219-contains-duplicate-ii](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1929-concatenation-of-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +111,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/jamsithasslam/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
