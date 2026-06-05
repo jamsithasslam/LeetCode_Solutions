@@ -12,10 +12,12 @@ class Solution {
                 nums[last]=temp;
                 last--;
             }
+            
             else{
                 start++;
             }
+            
        }
-       return last+1;
+       return start;
     }
 }
